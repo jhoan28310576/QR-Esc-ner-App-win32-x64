@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/3f6b0922-66c5-41c9-b3e6-30aafd64b503
-
-https://github.com/user-attachments/assets/888cba34-75d2-40df-943d-fec77739c394
 # QR Scan Suite
 
 
