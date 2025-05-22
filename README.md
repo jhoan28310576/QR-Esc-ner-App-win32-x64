@@ -4,7 +4,6 @@
 
 ![diagrama app_scan](https://github.com/user-attachments/assets/f81d14e8-2687-4f75-aab2-a7ce36dc0194)
 
-
 **Aplicación multiplataforma para escaneo y generación de códigos QR con soporte avanzado para múltiples formatos**
 
 ## 🔍 Características Principales
@@ -91,7 +90,11 @@ COMPONENTES CLAVE:
 7. Frontend → Usuario: Mostrar resultado/interacciones
 
 
-https://github.com/user-attachments/assets/69616346-8223-4fe7-806b-b9e5d7ef743f
+
+
+
+https://github.com/user-attachments/assets/e08753bf-365c-4a28-8b8b-5077673a2fde
+
 
 
 
